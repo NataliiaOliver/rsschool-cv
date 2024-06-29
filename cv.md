@@ -1,3 +1,4 @@
+![IMG_0516 (1)](https://github.com/NataliiaOliver/rsschool-cv/assets/103964206/2e9c5a5d-85df-4418-bf91-bd9dcf054994)
 # NATALIIA OLIVER
 ## Software QA Engineer
 ---
@@ -55,3 +56,18 @@ public class CounterSheep {
     }
 }
 ```
+### Education
+- __Universities:__
+    * [Odessa State Academy of Civil Engineering and Architecture](https://odaba.edu.ua/eng/), Industrial and Civil Engineering major     
+ 
+    * [Odessa National University of Economics](http://oneu.edu.ua/en/), Economist majoring in Accounting and Audit
+- __Courses:__
+    * [FreeCodeCamp](https://www.freecodecamp.org/)
+    * [SQL Academy](https://sql-academy.org/en)
+    * [Postman Academy](https://academy.postman.com/)
+### English
+
+level  | |
+-------|------
+__B2__ | Upper-Intermediate
+    
